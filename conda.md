@@ -82,7 +82,6 @@ Once the environment is activated, the command prompt shows the environment's na
 ### Confirm the existing modules/libraries
 Once inside the environment, open python shell by tying `python` and try importing the modules:
 ```bash
-import numpy as np
 >>> import numpy as np
 >>> import pandas as pd
 >>> import matplotlib.pyplot as plt
