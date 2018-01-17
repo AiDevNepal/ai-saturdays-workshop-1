@@ -33,22 +33,22 @@ The dataset can be downloaded from [fast.ai](http://files.fast.ai/data/) . Downl
 In the folder with the jupyter notebook, create a folder named dataset and inside the folder unzip the dogscats.zip file.
 
 The structure of the folder should look like this:
-advanced
-└── dataset
-    └── dogscats
-        ├── sample
-        │   ├── train
-        │   │   ├── cats
-        │   │   └── dogs
-        │   └── valid
-        │       ├── cats
-        │       └── dogs
-        ├── test1
-        ├── train
-        │   ├── cats
-        │   └── dogs
-        └── valid
-            ├── cats
-            └── dogs
+advanced  
+└── dataset  
+    └── dogscats  
+        ├── sample  
+        │   ├── train  
+        │   │   ├── cats  
+        │   │   └── dogs  
+        │   └── valid  
+        │       ├── cats  
+        │       └── dogs  
+        ├── test1  
+        ├── train  
+        │   ├── cats  
+        │   └── dogs  
+        └── valid  
+            ├── cats  
+            └── dogs  
 
 
