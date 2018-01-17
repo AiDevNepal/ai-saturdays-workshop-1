@@ -6,6 +6,7 @@ In our humble opinion, **advanced** are the people who are just starting out in 
 - tensorflow
 - keras 
 - pytorch
+- Deep Learning basics
 
 ----
 
