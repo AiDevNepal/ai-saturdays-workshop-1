@@ -10,7 +10,7 @@ In our humble opinion, **beginners** are the people who are just starting out in
 
 ## Table of Contents
 
-[Conda Installation and Usage](https://github.com/AiDevNepal/ai-saturdays-workshop-1/blob/master/beginner/conda.md)
+[Conda Installation and Usage](beginner/conda.md)
 
 [Python Basics](https://github.com/AiDevNepal/AI-Saturdays-week-0/blob/master/Python.ipynb)  
 
