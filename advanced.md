@@ -11,5 +11,5 @@ In our humble opinion, **advanced** are the people who are just starting out in 
 ## Table of Contents
 
 [Linear Regression using Keras](advanced/linear-regression.ipynb)
-[Cat Dog classification](advanced/CAT-DOG.ipynb)
+<br />[Cat Dog classification](advanced/CAT-DOG.ipynb)
 
