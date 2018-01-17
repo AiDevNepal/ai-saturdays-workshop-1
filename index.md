@@ -6,3 +6,4 @@ Study materials from AI Saturday's Workshop-1 organized by DN: AI Developers Nep
 ## Table of Contents
 
 [Beginner](beginner.md)
+[Advanced](advanced.md)

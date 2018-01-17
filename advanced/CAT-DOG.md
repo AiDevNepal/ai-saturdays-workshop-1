@@ -2,25 +2,25 @@
 
 It is for classification of the given image into cat and dog using Keras. We use keras with tensorflow as the backend.
 
-You can find the environment configuration file as [tensorflow.yml](tensorflow.yml) file.
+You can find the environment configuration file as [catdog.yml](catdog.yml) file.
 
 ### Setting up the environment
 
 Open up your terminal and run
 ```bash
-conda env create -f tensorflow.yml
+conda env create -f catdog.yml
 ```
 
 To activate the environment, after the environment has been created, run
 
 For linux/macOs users:
 ```bash
-source activate tensorflow
+source activate catdog
 ```
 
 For Windows users:
 ```bash
-activate tensorflow
+activate catdog
 ```
 
 ## Dataset Download and Structure

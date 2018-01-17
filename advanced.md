@@ -10,4 +10,4 @@ In our humble opinion, **advanced** are the people who are just starting out in 
 
 ## Table of Contents
 
-[Cat Dog classification](advanced/CAT-DOG.ipynb)
+[Cat Dog classification](advanced/)
